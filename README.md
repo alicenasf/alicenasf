@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🪷 Oie! Eu sou a Alice Nascimento
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=F7A8C4&center=true&vCenter=true&width=680&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Java+%7C+HTML+%7C+CSS;Desenvolvimento+%2B+Design+Digital" alt="Typing SVG" />
+</div>
 
-<!--
-**alicenasf/alicenasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<table>
+<tr>
+- 📖 Estudante de Engenharia de Software na FATESG - SENAI  <br>
+- 🌷 Aprendendo devagar em cada commit <br>
+- 🎨 Photoshop & Design Digital 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
