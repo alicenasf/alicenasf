@@ -41,6 +41,32 @@
 
 ---
 
-### 🧮 Estatísticas
+### 🕸️ Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/alicenasf">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=EF7777" height="55">
+</a>
+
+<a href="https://www.linkedin.com/in/aliceferrieraa/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=EF7777" height="55">
+</a>
+
+<a href="https://www.instagram.com/liceferreiraa/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=EF7777" height="55">
+</a>
+
+<a href="mailto:alice.nasf@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EF7777" height="55">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF7777&center=true&vCenter=true&width=500&lines=%E2%8A%B9+%CB%9A%E2%82%8A%E2%80%A7+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A7%E2%82%8A%CB%9A+%E2%8A%B9" />
+</div>
 
 
