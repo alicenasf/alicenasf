@@ -1,15 +1,46 @@
-## 🪷 Oie! Eu sou a Alice Nascimento
+# 🪷 Oie! Eu sou a Alice Nascimento
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=F7A8C4&center=true&vCenter=true&width=680&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Java+%7C+HTML+%7C+CSS;Desenvolvimento+%2B+Design+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=EF7777&center=true&vCenter=true&width=680&lines=Bem-Vindo+ao+meu+perfil!;Estudante+de+Engenharia+de+Software;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Java+%7C+HTML+%7C+CSS;Desenvolvimento+%2B+Design+Digital" alt="Typing SVG" />
 </div>
 
 <br>
+  
+<p align="left">
 
-<table>
-<tr>
-- 📖 Estudante de Engenharia de Software na FATESG - SENAI  <br>
-- 🌷 Aprendendo devagar em cada commit <br>
-- 🎨 Photoshop & Design Digital 
+<img src="assets/spiderman-angry.gif" width="330" align="right">
 
+
+- 📖 Estudante de Engenharia de Software na FATESG - SENAI <br>
+- 🕸️ Aprendendo devagar em cada commit <br>
+- 🎨 Photoshop & Design Digital <br>
+- 📸 Apaixonada por edição e criação digital <br>
+- 💻 Interessada em desenvolvimento de software
+  
+</p>
+
+<br clear="right">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF7777&center=true&vCenter=true&width=500&lines=%E2%8A%B9+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%8A%B9" />
+</div>
+
+---
+
+### 💻 Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="50" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="50" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="50" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" height="50" />
+
+</div>
+
+---
+
+### 🧮 Estatísticas
 
 
