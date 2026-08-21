@@ -74,4 +74,17 @@
 ---
 
 
+<div align="center">
 
+#### 🕷️ até a próxima!
+
+<br>
+
+<img src="./assets/i-love-you.gif" width="180" alt="Spider-Man fazendo um coração">
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=EF7777&height=4&section=footer" width="100%" alt="" />
+</div>
