@@ -20,8 +20,13 @@
 
 <br clear="right">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF7777&center=true&vCenter=true&width=500&lines=%E2%8A%B9+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%8A%B9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF7777&center=true&vCenter=true&width=500&lines=%E2%8A%B9+%CB%9A%E2%82%8A%E2%80%A7+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A7%E2%82%8A%CB%9A+%E2%8A%B9" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=EF7777&height=4&section=footer" width="100%" alt="" />
+</div>
+
 
 ---
 
@@ -59,14 +64,14 @@
 
 <a href="mailto:alice.nasf@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EF7777" height="55">
-</a>
+</a> 
+
+<br>
 
 </div>
+
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF7777&center=true&vCenter=true&width=500&lines=%E2%8A%B9+%CB%9A%E2%82%8A%E2%80%A7+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A7%E2%82%8A%CB%9A+%E2%8A%B9" />
-</div>
 
 
